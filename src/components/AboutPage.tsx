@@ -47,7 +47,7 @@ export function AboutPage() {
             <CardContent className="p-0">
               <div className="grid lg:grid-cols-2">
                 <div className="order-2 lg:order-1 p-8 lg:p-12 flex flex-col justify-center">
-                  <h2 className="text-3xl font-bold text-gray-900 mb-6">Meet IIM B Graduate</h2>
+                  <h2 className="text-3xl font-bold text-gray-900 mb-6">Meet Chef Karan</h2>
                   <p className="text-lg text-gray-600 leading-relaxed mb-6">
                     Chef is the heart and soul behind Foody Fuel. With over 7 glass breaking years of culinary 
                     experience in top household across the country, he decided to bring his expertise to 
