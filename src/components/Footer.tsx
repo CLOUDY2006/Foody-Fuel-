@@ -53,8 +53,8 @@ export function Footer() {
             <h3 className="font-semibold mb-4">Contact</h3>
             <div className="space-y-2 text-gray-400">
               <p>📧 hello@foodyfuel.com</p>
-              <p>📱 (555) 123-FUEL</p>
-              <p>🕒 Mon-Sat: 5 PM - 10 PM</p>
+              <p>📱 (+91 9871635771</p>
+              <p>🕒 Mon-Sun: 5 PM - 10 PM</p>
               <p>📍 Sec-4 market Dwarka,New Delhi</p>
             </div>
           </div>

@@ -219,9 +219,9 @@ export function FeedbackPage() {
               <h3 className="font-semibold text-gray-900 mb-4">Other Ways to Reach Us</h3>
               <div className="space-y-2 text-gray-600">
                 <p>📧 Email: hello@foodyfuel.com</p>
-                <p>📱 Phone: (555) 123-FUEL</p>
+                <p>📱 Phone: +91 9871635771</p>
                 <p>📍 Follow us on social media for daily locations</p>
-                <p>🕒 Hours: Monday-Saturday 11AM-9PM</p>
+                <p>🕒 Hours: Monday-Sunday 5 PM - 10 PM</p>
               </div>
             </div>
           </div>
